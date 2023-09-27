@@ -1,0 +1,18 @@
+{
+  "name": "assignment--partb",
+  "version": "1.0.0",
+  "description": "assignment part-B",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hitesh jaiswal",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "cheerio": "^1.0.0-rc.12",
+    "mongoose": "^7.5.3",
+    "nodemon": "^3.0.1"
+  }
+}
